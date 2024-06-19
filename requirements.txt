@@ -1,0 +1,23 @@
+streamlit==1.23.1
+pandas==1.3.5
+pytesseract==0.3.8
+Pillow==9.4.0
+easyocr
+pydantic
+pythainlp
+uvicorn
+fastapi
+imutils
+opencv-python
+mtcnn
+scikit-learn
+tqdm
+numpy
+keras_facenet
+imutils
+# pandas
+tensorflow-cpu
+matplotlib
+pytest-shutil
+gdown
+ultralytics
