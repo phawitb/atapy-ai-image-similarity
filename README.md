@@ -1,4 +1,9 @@
 # atapy-ai-image-similarity
+
+### run
+```
+uvicorn imgsimilarity_api:app --reload --port 8003
+```
 #### encode image
 ```
 POST : http://127.0.0.1:8003/atapy-image-similarity/encode
